@@ -1,3 +1,15 @@
+## Project Deliverables
+
+- [View the executive memo](NovaBank_Submission_Ready_Executive_Memo.pdf)
+- [Download the presentation](NovaBank_Submission_Ready_Deck.pptx)
+- [Open the analysis notebook](novabank_analysis_submission_ready.ipynb)
+
+## Author
+
+Neelima Parupally  
+MSBA Candidate, Quantic School of Business and Technology  
+July 2026
+
 # NovaBank Predictive Outreach Decision Support
 
 Prepared by **Neelima Parupally** for the Quantic MSBA Analytics Methods and Frameworks project.
