@@ -1,7 +1,7 @@
 ## Project Deliverables
 
-- [View the executive memo](NovaBank_Submission_Ready_Executive_Memo.pdf)
-- [Download the presentation](NovaBank_Submission_Ready_Deck.pptx)
+- [View the executive memo](NovaBank_Executive_Memo.pdf)
+- [Download the presentation](NovaBank_Analytics_Methods_Framework_Presentation_NeelimaParupally.pdf)
 - [Open the analysis notebook](novabank_analysis_submission_ready.ipynb)
 
 ## Author
